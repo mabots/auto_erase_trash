@@ -1,7 +1,8 @@
 auto_erase_trash
 ================
 
-Apple script to erase Trash by interval.
+Apple script to erase Trash by interval. 
+MTI Licence. Always welcome PRs.
 
 ### To run on your Mac.
 
@@ -14,5 +15,5 @@ Download zip from https://github.com/mabots/auto_erase_trash/archive/master.zip 
 delay 30
 ```
 
-### Tested Environment.
+### Tested Environment
 - Mac OS X 10.8.5
