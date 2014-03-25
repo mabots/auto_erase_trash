@@ -2,7 +2,7 @@ auto_erase_trash
 ================
 
 Apple script to erase Trash by interval. 
-MTI Licence. Always welcome PRs.
+MIT Licence. Always welcome PRs.
 
 ### To run on your Mac.
 
